@@ -16,8 +16,6 @@ tasas["EUR"]=0.91
 tasas["GBP"]=0.79
 tasas["TRY"]=29.76
 
-#Definimos los límites máximos y mínimos para las operaciones en cada moneda
-
 # Definir límites mínimos y máximos para cada moneda
 declare -A limites_minimos
 declare -A limites_maximos
